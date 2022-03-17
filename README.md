@@ -1,2 +1,2 @@
 # fingerprintscanner
-you easyly optmise the attendens 
+you can  easily optmise the attendens whit the finger print attendence 
